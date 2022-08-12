@@ -1,6 +1,6 @@
 ﻿{
 "wallpaper":"https://picsum.photos/1280/720/?blur=10",
-"spider":"https://raw.fastgit.org/tobbytt/tvconfig/main/box281.jar",
+"spider":"https://raw.githubusercontents.com/tobbytt/tvconfig/main/box281.jar",
 "sites": [
 {"key":"csp_Kunyu77","name":"🐞酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_LiteApple","name":"🍎小苹果HD","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
