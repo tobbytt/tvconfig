@@ -1,6 +1,6 @@
 ﻿{
 "wallpaper":"https://picsum.photos/1280/720/?blur=10",
-"spider":"https://raw.kgithub.com/tobbytt/tvconfig/main/a620.jar;md5;80DA9A5A82CDCE90317FD19B7FAA1890",
+"spider":"https://raw.kgithub.com/tobbytt/tvconfig/main/A620.jar;md5;80DA9A5A82CDCE90317FD19B7FAA1890",
 "lives":[{"name":"live","type":0,"url":"https://raw.kgithub.com/liu673cn/box/main/sub/live/tv.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
 "sites": [
 {"key":"csp_LiteApple","name":"🍎小苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1}, 
