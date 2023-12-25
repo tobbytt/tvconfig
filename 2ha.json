@@ -1,5 +1,5 @@
 {
-  "spider":"https://g-zjlt5975.coding.net/p/tobbytt/d/config/git/tree/master/tvbox.txt;md5;e9e8d6799fa76cb4f66777b84f8c9d02",
+  "spider":"https://raw.fastgit.org/tobbytt/tvconfig/main/tvbox.txt;md5;e9e8d6799fa76cb4f66777b84f8c9d02",
   "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
   "lives":[{"name":"live","type":0,"url":"./live.txt","playerType":1,"ua": "okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}],
   "sites":[
