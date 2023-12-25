@@ -1,5 +1,5 @@
 {
-"spider":"https://raw.fastgit.org/tobbytt/tvconfig/main/gao/jar/pg.jar;md5;c77fd9af1aa038646d124958adf31d1b",
+"spider":"https://raw.fastgit.org/tobbytt/tvconfig/main/gao/pg.jar;md5;c77fd9af1aa038646d124958adf31d1b",
 "lives":[{"name":"初秋语•综合","type":0,"url":"https://raw.fastgit.org/tobbytt/tvconfig/main/gao/list.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"番茄•综合","type":0,"url":"http://fanqie.gq/a/1701859592.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
 {"name":"Ray•综合","type":0,"url":"https://xhdwc.tk/tvlive.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
