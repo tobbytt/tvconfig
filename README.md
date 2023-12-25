@@ -1,2 +1,2 @@
-# tvconfig
-tvconfig
+# config
+config
