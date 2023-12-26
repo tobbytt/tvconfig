@@ -266,8 +266,8 @@
       "quickSearch": 1,
       "changeable": 1,
       "playerType": "1",
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/jp.js"
+      "api": "./drpy2.min.js",
+      "ext": "./jp.js"
     },
     {
       "key": "4KHDR",
