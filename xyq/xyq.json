@@ -1,16 +1,6 @@
-
 {
-  "wallpaper": "https://picsum.photos/1280/720/?blur=2",
   "spider": "./custom_spider.jar;md5;5dbe95399010cd30706b01aa5624dbe0",
   "lives": [
-    {
-      "name": "本地live文件",
-      "type": "0",
-      "pass": true,
-      "url": "http://127.0.0.1:9978/file/XYQTVBox/live.txt",
-      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
     {
       "name": "FMM_IPV6",
       "type": "0",
@@ -882,5 +872,5 @@
       ]
     }
   ],
-  "ads": []
+  "ads": [ ]
 }
