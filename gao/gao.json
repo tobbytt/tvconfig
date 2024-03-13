@@ -71,12 +71,7 @@
 {"key":"索尼","name":"索尼┃采集","type":1,"api":"https://suoniapi.com/api.php/provide/vod","searchable":1,"changeable":1},
 {"key":"快帆","name":"快帆┃采集","type":1,"api":"https://api.kuaifan.tv/api.php/provide/vod","searchable":1,"changeable":1},
 
-{"key":"drpy_js_360影视","name":"官源┃360[js]","type":3,"api":"./drpy2.min.js","ext":"./js/360影视.js"},
-{"key":"drpy_js_奇珍异兽","name":"官源┃爱奇艺[js]","type":3,"api":"./drpy2.min.js","ext":"./js/奇珍异兽.js"},
-{"key":"drpy_js_百忙无果","name":"官源┃芒果[js]","type":3,"api":"./drpy2.min.js","ext":"./js/百忙无果.js"},
-{"key":"drpy_js_腾云驾雾","name":"官源┃腾讯[js]","type":3,"api":"./drpy2.min.js","ext":"./js/腾云驾雾.js"},
-{"key":"drpy_js_菜狗","name":"官源┃搜狗[js]","type":3,"api":"./drpy2.min.js","ext":"./js/菜狗.js"},
-{"key":"drpy_js_优酷","name":"官源┃优酷[js]","type":3,"api":"./drpy2.min.js","ext":"./js/优酷.js"},
+
 {"key":"drpy_js_我的哔哩","name":"弹幕┃我的哔哩[js]","type":3,"api":"./drpy2.min.js","style":{"type":"rect","ratio":1.597},"changeable":0,"ext":"./js/我的哔哩.js"},
 {"key":"drpy_js_哔哩直播","name":"弹幕┃哔哩直播[js]","type":3,"api":"./drpy2.min.js","style":{"type":"rect","ratio":1.597},"changeable":0,"ext":"./js/哔哩直播.js"},
 {"key":"drpy_js_JustLive","name":"直播┃JustLive[js]","type":3,"api":"./drpy2.min.js","style":{"type":"rect","ratio":1.597},"changeable":0,"ext":"./js/JustLive.js"},
@@ -96,23 +91,12 @@
 {"key":"drpy_js_网易公版影像","name":"聚合┃网易公版[js]","type":3,"api":"./drpy2.min.js","changeable":0,"ext":"./js/网易公版影像.js"},
 {"key":"drpy_js_酷奇MV","name":"MV┃酷奇[js]","type":3,"api":"./drpy2.min.js","changeable":0,"ext":"./js/酷奇MV.js"},
 
-{"key":"csp_xBPQ_来看","name":"影视┃耐看[XBPQ]","type":3,"api":"csp_XBPQ","ext":"./来看.json"},
-{"key":"csp_xBPQ_星辰","name":"影视┃星辰[XBPQ]","type":3,"api":"csp_XBPQ","playerType":"1","ext":"./星辰.json"},
-{"key":"csp_xBPQ_素白","name":"影视┃素白[XBPQ]","type":3,"api":"csp_XBPQ","playerType":"1","ext":"./素白.json"},
-
-{"key":"csp_XYQBiu_1985电影网","name":"影视┃1985电影网[XYQ]","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"./1985电影网.json"},
-{"key":"csp_XYQBiu_大师兄影视","name":"影视┃大师兄影视[XYQ]","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/大师兄影视.js"},
-{"key":"csp_XYQBiu_七小时影院","name":"影视┃七小时影院[XYQ]","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"./七小时影院.json"},
-{"key":"csp_XYQBiu_TVB云播","name":"影视┃TVB云播[XYQ]","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"./TVB云播.json"},
-{"key":"csp_XYQBiu_骚火电影VIP","name":"影视┃骚火•飞[XYQ]","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"./骚火电影VIP.json"},
 
 
-{"key":"csp_xb_zbk","name":"影视┃真不卡[XBiu]","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.zbkk.net/vodshow/{cateId}--------{catePg}---.html"},
-{"key":"csp_xb_ysgc","name":"影视┃影视工厂[XBiu]","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.ysgc.fun/vodtype/{cateId}-{catePg}.html"},
-{"key":"csp_xb_cokemv","name":"影视┃cokemv[XBiu]","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cokemv.me/vodshow/{cateId}--------{catePg}---.html"},
-{"key":"csp_xb_达达龟","name":"影视┃达达龟[XBiu]","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.dadagui.me/vodshow/{cateId}--------{catePg}---.html"},
-{"key":"csp_xb_shm","name":"影视┃神马影视[XBiu]","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.smdyy.cc/show/{cateId}-{area}--{class}-----{catePg}---{year}.html"},
-{"key":"csp_xb_fg","name":"影视┃疯狗影视[XBiu]","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://m.fenggoudy3.com/list-select-id-{cateId}-type--area--year--star--state--order-addtime-p-{catePg}.html"},
+
+
+
+
 {"key":"csp_XP_动漫巴士","name":"影视┃动漫巴士[XPF]","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"./动漫巴士.json"},
 {"key":"csp_XP_dmw","name":"影视┃动漫岛[XPMF]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"./dmw.json"},
 {"key":"csp_XP_gongreng","name":"影视┃工人影视[XPMF]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"./gongreng.json"},
