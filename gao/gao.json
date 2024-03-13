@@ -120,10 +120,7 @@
 {"key":"csp_XP_动漫巴士","name":"影视┃动漫巴士[XPF]","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"./动漫巴士.json"},
 {"key":"csp_XP_dmw","name":"影视┃动漫岛[XPMF]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"./dmw.json"},
 {"key":"csp_XP_gongreng","name":"影视┃工人影视[XPMF]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"./gongreng.json"},
-{"key":"csp_XP_独播库","name":"影视┃独播库•飞[XPMF]","type":3,"api":"csp_XPathMacFilter","playerType":0,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./duboku.json"},
-
-
-
+{"key":"csp_XP_独播库","name":"影视┃独播库•飞[XPMF]","type":3,"api":"csp_XPathMacFilter","playerType":0,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./duboku.json"}
 ],
 "parses":[
 {"name":"Json聚合","type":3,"url":"Demo"},
