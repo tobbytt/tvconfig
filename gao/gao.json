@@ -122,8 +122,7 @@
 {"key":"csp_XP_gongreng","name":"影视┃工人影视[XPMF]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"./gongreng.json"},
 {"key":"csp_XP_独播库","name":"影视┃独播库•飞[XPMF]","type":3,"api":"csp_XPathMacFilter","playerType":0,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./duboku.json"},
 
-//{"key":"bb","name":"配置接口完全免费","type":3,"api":"./drpy2.min.js","ext":"./drpy.js"},
-//{"key":"cc","name":"请勿相信视频中任何广告","type":3,"api":"./drpy2.min.js","ext":"./drpy.js"}
+
 
 ],
 "parses":[
