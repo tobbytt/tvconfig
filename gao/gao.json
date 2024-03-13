@@ -132,6 +132,7 @@
 {"key":"AList","name":"网盘","type":3,"api":"csp_AList","searchable":1,"changeable":0,"ext":"./alist.json"},
 {"key":"WebDAV","name":"云盘","type":3,"api":"csp_WebDAV","searchable":1,"changeable":0,"ext":"./webdav.json"},
 ],
-
+"doh":[],
+"rules":[],
 "ads":[""]
 }
